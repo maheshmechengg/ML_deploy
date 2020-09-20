@@ -1,2 +1,1 @@
-web: gunicorn deplapp:app
-
+web: gunicorn app:deplapp
